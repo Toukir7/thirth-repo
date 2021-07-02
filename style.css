@@ -1,0 +1,13 @@
+p{
+    color: royalblue;
+    background-color: silver;
+}
+h1{
+    background-color: seagreen;
+    color: black;
+    margin: 30px 40px 30px 40px;
+    padding: 20px;
+    text-align: center;
+    border: black solid;
+    border-radius: 20%;
+}
